@@ -1,7 +1,7 @@
 ---
 title: Introduction
 date: 2023-04-18 21:43:10
-categories: [introduction]
+categories: [Introducing]
 tags: [introduction,welcome]
 ---
 
