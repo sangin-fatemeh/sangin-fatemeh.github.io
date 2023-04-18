@@ -1,6 +1,6 @@
 ---
 title: Introduction
-date: 2023-04-18 21:43:10 -500
+date: 2023-04-18 21:43:10
 categories: [introduction]
 tags: [introduction,welcome]
 ---
