@@ -1,5 +1,5 @@
 ---
-title: IntFusionSeg Motion Segmentation by Jointly Exploiting Frames and Eventsroduction
+title: FusionSeg Motion Segmentation by Jointly Exploiting Frames and Eventsroduction
 date: 2023-04-19 00:27:10 +0330
 categories: [Segmentation,Motion_Segmentation]
 tags: [motion_segmentation,segmentation,video,event,event_camera,robot,robot_vision]    # TAG names should always be lowercase
