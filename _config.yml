@@ -26,7 +26,7 @@ description: >- # used by seo meta and the atom feed
   Each week, on Mondays and Tuesday, we read a ML-related state-of-the-art paper.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-# url: "sangin-fatemeh.github.io"
+url: "sangin-fatemeh.github.io"
 
 github:
   username: sangin-fatemeh # change to your github username
